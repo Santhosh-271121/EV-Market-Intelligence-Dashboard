@@ -9,9 +9,9 @@ An interactive **Power BI dashboard** developed to analyze Electric Vehicle (EV)
 > Add your dashboard screenshot here and name it **dashboard.png**.
 
 ```text
-![EV Dashboard](dashboard.png)
-```
 
+```
+![EV Dashboard](dashboard.png)
 ---
 
 ## 📌 Project Overview
